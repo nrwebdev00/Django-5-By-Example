@@ -63,3 +63,4 @@ htmlcov/
 .tox/
 .coverage
 coverage.xml
+*.sqlite3
