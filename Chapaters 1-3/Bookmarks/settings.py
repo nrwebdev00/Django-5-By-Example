@@ -23,8 +23,12 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+    'django.contrib.sites',
+    'django.contrib.sitemaps',
     'django.contrib.staticfiles',
+
     # 3rd Party App
+    'taggit',
 
     # Apps
     'blog.apps.BlogConfig',
